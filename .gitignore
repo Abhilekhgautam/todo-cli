@@ -1,0 +1,5 @@
+# ignore release file.
+target
+
+#ignore local development files
+test-journal.json
